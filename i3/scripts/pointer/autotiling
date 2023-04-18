@@ -1,0 +1,3 @@
+#!/bin/bash
+SCRIPT_LOCATION="$HOME/.config/i3/scripts/source/autotiling/autotiling/main.py"
+python $SCRIPT_LOCATION
